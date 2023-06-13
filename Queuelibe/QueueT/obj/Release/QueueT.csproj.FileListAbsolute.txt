@@ -1,0 +1,6 @@
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib7\QueueT\QueueT\bin\Release\QueueT.dll
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib7\QueueT\QueueT\bin\Release\QueueT.pdb
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib7\QueueT\QueueT\obj\Release\QueueT.csproj.AssemblyReference.cache
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib7\QueueT\QueueT\obj\Release\QueueT.csproj.CoreCompileInputs.cache
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib7\QueueT\QueueT\obj\Release\QueueT.dll
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib7\QueueT\QueueT\obj\Release\QueueT.pdb

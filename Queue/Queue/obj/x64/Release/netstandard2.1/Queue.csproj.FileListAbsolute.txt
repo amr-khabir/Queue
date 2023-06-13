@@ -1,0 +1,9 @@
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib\Queue\Queue\bin\x64\Release\netstandard2.1\Queue.deps.json
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib\Queue\Queue\bin\x64\Release\netstandard2.1\Queue.dll
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib\Queue\Queue\bin\x64\Release\netstandard2.1\Queue.pdb
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib\Queue\Queue\obj\x64\Release\netstandard2.1\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib\Queue\Queue\obj\x64\Release\netstandard2.1\Queue.AssemblyInfoInputs.cache
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib\Queue\Queue\obj\x64\Release\netstandard2.1\Queue.AssemblyInfo.cs
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib\Queue\Queue\obj\x64\Release\netstandard2.1\Queue.csproj.CoreCompileInputs.cache
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib\Queue\Queue\obj\x64\Release\netstandard2.1\Queue.dll
+D:\course\2021-2022\1ST\Courses\north\4\Queuing theory\العملي\QueueLib\Queue\Queue\obj\x64\Release\netstandard2.1\Queue.pdb
